@@ -14,6 +14,8 @@ Key influences include:
 2. **Emotionally Engaging Systems**: Interaction design integrates emotional responses to foster intuitive and meaningful experiences.
 3. **Symbiotic Dynamics**: Inspired by biological symbiosis, XR environments evolve with user interaction.
 
+![Smart Particles Interaction](images/smart-particles.gif)
+
 ## Implementation: Smart Particles
 ### Features
 - **Responsive Behaviour**: Particles react dynamically to user movements, offering real-time feedback.
